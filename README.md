@@ -1,7 +1,6 @@
 # Hi, I’m Abel 👋
 
 - Computer Science student @ University of Nottingham (2nd Year)
-- Studying abroad in China (Spring Semester 2025)
 - Interests: Tech Sales · Sales Engineering · IT · Software Development · Sales Development
 
 ## What I Do
