@@ -1,7 +1,7 @@
 # Hi, I’m Abel 👋
 
-- Computer Science student @ University of Nottingham (2nd Year)
-- Interests: Tech Sales · Sales Engineering · IT · Software Development · Sales Development
+- Computer Science student @ University of Nottingham (Third Year)
+- Interests: Tech Sales · Sales Engineering · IT · Software Development · Business Development
 
 ## What I Do
 - Build small but effective demo and coursework projects with clear scope and documentation
@@ -10,8 +10,40 @@
   
 ## Achievements
 - Achieved a **2:1 (Second Class)** in first-year Computer Science at the University of Nottingham
+- Complete a Semester Abroad in University of Nottingham Ningbo China in my 2nd Year
+- Partook in HackNotts 25' & 26'
+- 
   
 ## Featured Projects
+
+### EV Decision Support Platform (Python) — COMP2002 Team Project
+
+An interactive web application developed by a nine-person team to help users decide whether an electric vehicle suits their lifestyle, budget and charging access, with emphasis on **data-driven comparisons, personalised guidance and modular software development**.
+
+**Key focus areas**
+- Translating driving preferences into rule-based EV suitability scores and vehicle recommendations
+- Processing vehicle, fuel-price and emissions datasets for meaningful comparisons
+- Integrating external APIs for postcode geocoding and nearby charging-point discovery
+- Building reusable Streamlit components with session-state management and responsive styling
+
+**Implementation highlights**
+- Lifestyle questionnaire with tailored results for cost, charging access, performance and emissions
+- SQLite-backed vehicle recommendations ranked against budget, mileage and user priorities
+- Interactive charging-point maps using Folium and Open Charge Map
+- UK postcode lookup through postcodes.io, with LocationIQ as a fallback
+- EV-to-EV and EV-to-petrol/diesel comparisons, alongside running-cost and emissions visualisations
+- Source-linked myth-busting content explaining common EV concerns
+- Automated pytest tests covering recommendation logic, data validation, API failures and page behaviour using mocks and Streamlit stubs
+
+**Tech**
+- Python, Streamlit, HTML/CSS
+- Pandas, NumPy, Plotly, Matplotlib
+- SQLite, Requests, Folium, streamlit-folium
+- Open Charge Map, postcodes.io, LocationIQ
+- pytest, unittest.mock
+- Git / GitLab
+
+*(Private repository due to coursework policy)*
 
 ### Cyborg Platformer (Java) — COMP2013: Developing Maintainable Software
 A 2D platform game developed across multiple coursework milestones, with emphasis on **software maintenance, refactoring, testing, and controlled evolution** rather than raw feature count.
