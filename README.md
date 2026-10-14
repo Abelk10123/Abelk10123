@@ -10,11 +10,55 @@
   
 ## Achievements
 - Achieved a **2:1 (Second Class)** in first-year Computer Science at the University of Nottingham
-- Complete a Semester Abroad in University of Nottingham Ningbo China in my 2nd Year
+- Completed a Semester Abroad exchange program with the University of Nottingham Ningbo China
 - Partook in HackNotts 25' & 26'
-- 
+- Student Ambassador for Computer Science | October 2026 - Present
   
 ## Featured Projects
+
+### AI Customer-Enquiry Triage (Python) | In Progress
+A customer-service automation project exploring how a small property business could categorise enquiries and prepare them for staff review, with emphasis on **AI integration, human oversight and assessing business value**.
+
+**Key focus areas**
+
+- Defining an enquiry-categorisation workflow using synthetic examples
+- Planning structured LLM API responses with validation and error handling
+- Designing staff review and correction before routing decisions are finalised
+- Evaluating classification errors, handling time and operating costs
+
+**Current progress and planned implementation**
+
+- Project brief, synthetic dataset and Streamlit starter prepared
+- Initial business-case model documented
+- Planned: LLM classification, staff-review queue and SQLite persistence
+- Planned: evaluation results and an assumption-based cost dashboard
+
+**Tech**
+
+- Current: Python, Streamlit, Pandas, Git
+- Planned: LLM API, Pydantic, SQLite, Plotly, pytest
+
+### B2B Account Prioritisation & CRM Tool (Python) | In Progress
+A sales-workflow project for a fictional property-data API supplier, with emphasis on **account qualification, explainable prioritisation and connecting customer needs to technical solutions**.
+
+**Key focus areas**
+
+- Defining an ideal customer profile and transparent account-scoring rules
+- Preparing synthetic company data and discovery questions
+- Planning opportunity tracking and clear next actions
+- Designing a CRM integration with duplicate prevention and error handling
+
+**Current progress and planned implementation**
+
+- Project brief, scoring rubric and account-discovery plan documented
+- Synthetic dataset and Streamlit starter prepared
+- Planned: editable scoring, pipeline dashboard and SQLite persistence
+- Planned: HubSpot company/deal integration through REST APIs
+
+**Tech**
+
+- Current: Python, Streamlit, Pandas, Git
+- Planned: HubSpot CRM API, Requests, SQLite, Plotly, Postman, pytest
 
 ### EV Decision Support Platform (Python) — COMP2002 Team Project
 
